@@ -8,7 +8,7 @@ Methylation ~ maternal general anxiety (continuous) + child gender + maternal so
 * Continuous variables were winsorized for variables for which there were outliers (outliers were set to the value for 3SDs from mean).
 * Maternal anxiety was derived from questionnaire items--a score was created that summed the number of items for which anxiety was indicated.
 * Level of maternal education was used to capture  socioeconomic status.
-* Birthweight was measured in grams.
+* Birthweight (grams).
 * Maternal smoking is a 3-level variable (0=no smoking; 1=smoked during 1st trimester; 2=smoked throughout duration of pregnancy).
 * Ancestry was accounted for with 10 principal components dervived from GWAS data.
 * Batch confounders were dealt with by using the SVA approach.
