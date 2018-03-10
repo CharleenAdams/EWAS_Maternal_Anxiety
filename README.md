@@ -13,7 +13,7 @@ Methylation ~ maternal general anxiety (continuous) + child gender + maternal so
 * Ancestry was accounted for with 10 principal components dervived from GWAS data.
 * Batch confounders were dealt with by using the SVA approach.
 * The Andrews and Bakulski approach was used for estimating the cell counts in cord blood.
-* The variable for psychiatric medication was derived from questionnaire data for use of anti-depressants and anti-anxiety medications during pregnancy (1==any use; 2==no use).
+* The variable for psychiatric medication was derived from questionnaire data for use of anti-depressants and anti-anxiety medications during pregnancy (1==any use; 0==no use).
 
 **634** mother-child pairs were in the analysis.
 
