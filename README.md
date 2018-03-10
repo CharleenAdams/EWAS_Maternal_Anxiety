@@ -20,7 +20,7 @@ Methylation ~ maternal general anxiety (continuous) + child gender + maternal so
 ## Results
 There were **5** CpG sites with association p-values < 3.1096172 x 10-5 in the **sva** regression model.
 
-The .md file for the .html (which is apparently too large to display) report provides details about the CpGs.
+The .md file for the .html report (uploaded but, sadly, too large to display) provides details about the CpGs.
 
 ## This is a *work-in-progress*. . .
 More models will be run.
