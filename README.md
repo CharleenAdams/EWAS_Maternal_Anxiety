@@ -1,4 +1,4 @@
-# Results for the ALSPAC EWAS of Maternal Anxiety on Infant Methylation
+# Results for the ALSPAC EWAS of maternal anxiety on infant methylation
 
 ## This file contains the results for the "full" model (containing all covariates):
 About what went into the model:
