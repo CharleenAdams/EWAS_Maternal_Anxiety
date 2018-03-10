@@ -16,6 +16,7 @@ Methylation ~ maternal general anxiety (continuous) + child gender + maternal so
 * The variable for psychiatric medication was derived from questionnaire data for use of anti-depressants and anti-anxiety medications$
 
 **634** mother-child pairs were in the analysis.
+
 **5** CpG sites with association p-values < 3.1096172 x 10-5 in the **sva** regression model.
 
 ## This is a *work-in-progress*. . .
