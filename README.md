@@ -9,11 +9,11 @@ Methylation ~ maternal general anxiety (continuous) + child gender + maternal so
 * Maternal anxiety was derived from questionnaire items--a score was created that summed the number of items for which anxiety was indicated.
 * Level of maternal education was used to capture  socioeconomic status.
 * Birthweight (grams).
-* Maternal smoking is a 3-level variable (0=no smoking; 1=smoked during 1st trimester; 2=smoked throughout duration of pregnancy).
+* Maternal smoking is a 3-level variable (0==no smoking; 1==smoked during 1st trimester; 2==smoked throughout duration of pregnancy).
 * Ancestry was accounted for with 10 principal components dervived from GWAS data.
 * Batch confounders were dealt with by using the SVA approach.
 * The Andrews and Bakulski approach was used for estimating the cell counts in cord blood.
-* The variable for psychiatric medication was derived from questionnaire data for use of anti-depressants and anti-anxiety medications$
+* The variable for psychiatric medication was derived from questionnaire data for use of anti-depressants and anti-anxiety medications during pregnancy (1==any use; 2==no use).
 
 **634** mother-child pairs were in the analysis.
 
