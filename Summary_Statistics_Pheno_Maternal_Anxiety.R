@@ -20,8 +20,6 @@ library(psych)
 library(plyr)
 library(dplyr)
 library(devtools)
-#devtools::install_github("explodecomputer/alspac")
-library(alspac)
 
 ##########################
 #Read-in the phenofile created by merging the ALSPAC phenotype file (created with "2018-02-26_Charleen_PACE_phenotype_file.R")
