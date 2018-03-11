@@ -23,8 +23,6 @@ library(dplyr)
 install.packages("robustHD")
 install.packages("devtools")
 library(devtools)
-devtools::install_github("explodecomputer/alspac")
-library(alspac)
 
 setDataDir("R:/Data/Current/Quest/Mother") # to access the 'b' and 'c' questionnaire data
 #setDataDir("R:/Data") # to access to 'h' questionnaire data, which I extracted with the Shiny App and saved as a .csv (see below)
